@@ -4,8 +4,6 @@ Framework adalah kumpulan tools atau library untuk membuat website dan aplikasi 
 
 Pada kasus CSS sendiri, sebuah framework CSS dapat dikatakan merupakan sekumpulan class CSS yang disediakan oleh vendor (pembuat framework) untuk memudahkan pengembang web dalam membuat tampilan web yang bagus.
 
-## Perbandingan CSS Framework : Bootstrap 4 , Foundation 6 dan Tailwind
-
 Parameters | Bootstrap | Foundation | Tailwind
 --- | --- | --- | ---
 Current Version | V 4.0 alpha 6 |V 6.4 | V 0.4.1
@@ -19,3 +17,14 @@ Design | Customizable; a variety of designs | Not that appealing.
 Normalization/ Reset | reboot.css |normalize.css
 Inline Forms  | Yes | No
 License | MIT | MIT | GNU 
+
+Ketiga CSS framework merupakan open source. Bootstrap adalah yang paling populer dari ketiganya. Hal tersebut dapat dilihat dari komunitas yang dimiliki. Tailwind disatu sisi adalah framework yang masih baru yang baru dirilis pada tahun 2017.
+
+Bootstrap, seperti namanya memungkinkan kita membuat situs web dengan mudah dan cepat. Komponen di Bootstrap sudah dipoles dengan baik dan siap pakai. Tidak banyak yang perlu kita lakukan dalam hal styling. Sehingga seringkali tampilan web akan terlihat seragam dengan tampilan web orang lain yang juga menggunakan bootstrap.
+
+Berbeda dengan Foundation, sesuai dengan namanya yaitu memberi dasar bagi pengembang untuk mengerjakannya. Foundation memberi kebebasan pengembang untuk melakukan kustomisasi/pengaturan.Pengaturan styling di foundation lebih mudah dibanding dengan Bootstrap.
+
+Dalam hal stabilitas, Foundation 6 sedikit lebih stabil daripada Bootstrap 4. Foundation terus menerus melakukan perbaikan terhadap setiap bug.
+
+Bootstrap 4 saat ini dalam versi beta setelah menghabiskan hampir dua tahun dalam tahap alpha. Meskipun banyak bug telah diperbaiki dan masih diperbaiki, masih ada sedikit perubahan yang dapat diharapkan dari kerangka kerja ini.
+
